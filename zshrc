@@ -146,3 +146,4 @@ fi
 alias sl=ls
 alias dc=cd
 alias s=ls
+export PATH=$PATH:/home/eutop1a/utilities/GoLand-2023.2.1/bin
